@@ -1,0 +1,1 @@
+A lot of the stuff is useless since i've included Bootstrap. Regardless of that I will leave the code there for none Bootstrap Projects.

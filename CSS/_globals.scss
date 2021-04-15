@@ -3,19 +3,9 @@
   padding: 0;  
   box-sizing: border-box;
 }
-ul{
-  list-style-type: none;
-}
-body{
-  background-color: rgb(168, 168, 168);
-}
-.flex{
-  display: flex;
-}
+//if u want something to disaper just give it the class "none"
 .none{
   display: none; 
 }
-.active{
-  display: inherit;
-}
+
 
