@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;  
+  box-sizing: border-box;
+}
+ul{
+  list-style-type: none;
+}
+body{
+  background-color: rgb(168, 168, 168);
+}
+.flex{
+  display: flex;
+}
+.none{
+  display: none; 
+}
+.active{
+  display: inherit;
+}
+
